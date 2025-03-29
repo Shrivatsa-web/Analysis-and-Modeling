@@ -1,1 +1,1 @@
-# Dynamic_Mode_Decomposition
+# Decomposition
